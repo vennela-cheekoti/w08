@@ -1,9 +1,14 @@
-I can't believe I got fired from the calendar factory. All I did was take a day off.
-
-I'd tell you a chemistry joke but I know I wouldn't get a reaction.
-
-I wasn't originally going to get a brain transplant, but then I changed my mind.
-
-My math teacher called me average. How mean!
-
-I wanted to buy a neutrino, but had to settle for a used one.
+	   <h3>Current</h3>
+            <section><h4>I am here to do my masters in Applied Computer Science for this Fall 2018.</h4></section>
+            <h3>Background</h3>
+            <section><h4>I am from India. I have completed my under graduation in Information Technology stream from Bhoj Reddy Engineering College for Women, Hyderabad. I have done my project which includes mobile computing and web apps so I want excel my knowledge more in this field.</h4></section>
+            <h3>Plans</h3>
+            <section><h4>I want to become a software developer in highly reputed companies.</h4></section>
+            <section>
+              <h3>Schedule</h3>
+              <ol id="schedule">
+                <li>OOPS 8:00 - 9:15 T,R</li>
+                <li>Web Apps 11:00 - 11:50 M,W</li>
+                <li>Advanced database 1:00 - 1:50 M,W,F</li>
+                <li>OOPS LAB 3:35 - 5:35 R</li>
+              </ol>

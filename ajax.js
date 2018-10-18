@@ -7,7 +7,7 @@
     function callRestAPI() {
       var root = 'https://jsonplaceholder.typicode.com'
       $.ajax({
-        url: root + '/posts/1',
+        url: root + '/posts/5',
         method: 'GET'
       }).then(function (response) {
         console.log(response);
